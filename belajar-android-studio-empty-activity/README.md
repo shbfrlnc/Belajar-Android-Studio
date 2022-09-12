@@ -28,7 +28,7 @@ Pilihan ini cukup fleksibel karena bisa dimodifikasi menjadi banyak pilihan.
 
 Untuk penjelasannya, baca komentar dari kode.
 
-Perlu diketahui bahwa di Kotlin, "//" atau "/* ... */" adalah komentar dan di XML <!-- ... --> adalah komentar.
+Perlu diketahui bahwa di Kotlin, "//" atau "/* ... */" adalah komentar dan di XML &#x3C;!-- ... --&#x3E; adalah komentar.
 
 Kode yang ada di dalam komentar tidak akan dieksekusi.
 
