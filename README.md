@@ -1,5 +1,9 @@
 # Belajar-Android-Studio
 
+## Traktir Saya
+
+Berikan saya uang gratis di https://bit.ly/shb-traktir
+
 ## Pendahuluan
 
 Ini adalah kumpulan contoh kode Android Studio. 
